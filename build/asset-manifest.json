@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4e35bf4.chunk.css",
-    "main.js": "/static/js/main.b208c59c.chunk.js",
-    "main.js.map": "/static/js/main.b208c59c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7354f3d7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7354f3d7.js.map",
-    "static/js/2.37bffc99.chunk.js": "/static/js/2.37bffc99.chunk.js",
-    "static/js/2.37bffc99.chunk.js.map": "/static/js/2.37bffc99.chunk.js.map",
-    "static/js/3.88d89e43.chunk.js": "/static/js/3.88d89e43.chunk.js",
-    "static/js/3.88d89e43.chunk.js.map": "/static/js/3.88d89e43.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a4e35bf4.chunk.css.map": "/static/css/main.a4e35bf4.chunk.css.map",
-    "static/js/2.37bffc99.chunk.js.LICENSE.txt": "/static/js/2.37bffc99.chunk.js.LICENSE.txt"
+    "main.css": "/netflix-script/static/css/main.a4e35bf4.chunk.css",
+    "main.js": "/netflix-script/static/js/main.b208c59c.chunk.js",
+    "main.js.map": "/netflix-script/static/js/main.b208c59c.chunk.js.map",
+    "runtime-main.js": "/netflix-script/static/js/runtime-main.7faed380.js",
+    "runtime-main.js.map": "/netflix-script/static/js/runtime-main.7faed380.js.map",
+    "static/js/2.37bffc99.chunk.js": "/netflix-script/static/js/2.37bffc99.chunk.js",
+    "static/js/2.37bffc99.chunk.js.map": "/netflix-script/static/js/2.37bffc99.chunk.js.map",
+    "static/js/3.88d89e43.chunk.js": "/netflix-script/static/js/3.88d89e43.chunk.js",
+    "static/js/3.88d89e43.chunk.js.map": "/netflix-script/static/js/3.88d89e43.chunk.js.map",
+    "index.html": "/netflix-script/index.html",
+    "static/css/main.a4e35bf4.chunk.css.map": "/netflix-script/static/css/main.a4e35bf4.chunk.css.map",
+    "static/js/2.37bffc99.chunk.js.LICENSE.txt": "/netflix-script/static/js/2.37bffc99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7354f3d7.js",
+    "static/js/runtime-main.7faed380.js",
     "static/js/2.37bffc99.chunk.js",
     "static/css/main.a4e35bf4.chunk.css",
     "static/js/main.b208c59c.chunk.js"
