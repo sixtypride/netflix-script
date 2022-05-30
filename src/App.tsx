@@ -15,7 +15,7 @@ export type CaptionData = {
 }
 
 function App() {
-  const titles = ['intern', 'friends1-3'];
+  const titles = ['intern', 'friends1-3', 'juvenile'];
 
   const [captionData, setCaptionData] = React.useState<CaptionData>();
   const onTitleSelect = React.useCallback((captionData:CaptionData) => {
